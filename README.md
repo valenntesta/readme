@@ -28,5 +28,5 @@ Nací y resido en Córdoba, Argentina. Soy una persona apasionada por la tecnolo
 ---
 
 ### 📧 No dudes en contactarme:
-- [Email](mailto:valentesta05@gmail.com)
+- Email: valentesta05@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/valentin-testa-177476216)
